@@ -5,8 +5,10 @@ actividad 8 de Nava
 - ![image](https://github.com/user-attachments/assets/972406d7-482a-4b79-a17b-46ef0c666b8c)
 
 ## clasedatos
-- ![image](https://github.com/user-attachments/assets/33477547-f59e-46fa-a2d6-bf6f1a166dea)
-- ![image](https://github.com/user-attachments/assets/d83c585a-da55-4b91-ba05-0785073df589)
+- ![image](https://github.com/user-attachments/assets/0f452f17-16f0-44e9-875a-50e4b1bca375)
+
+- ![image](https://github.com/user-attachments/assets/656b0cfb-62be-4dff-87a1-8299892fe86d)
+
 
 
 
